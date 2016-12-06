@@ -18,7 +18,7 @@ class Simulation:
         self.screenHeight = height
 
         # set the name of display windows
-        pygame.display.set_caption('Import/Export project')
+        pygame.display.set_caption('Learning Survival Skills in Herbivore and Carnivore Environment')
 
         # initialize sprites
         self.bg = pygame.image.load("./resources/bg.bmp")
